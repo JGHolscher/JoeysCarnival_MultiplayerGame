@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: baacdc0826efad04a88cf80d42fcf768
+timeCreated: 1539070319
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316899
+  packageName: Balloon Puzzle 2D - Game Template
+  packageVersion: 1.0
+  assetPath: Assets/Balloon Puzzle 2D/Scripts/Gameplay/SoundGallery.cs
+  uploadId: 748373

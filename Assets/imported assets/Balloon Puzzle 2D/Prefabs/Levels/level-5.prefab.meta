@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 00b6b79664e4c524d98aab805a652df1
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316899
+  packageName: Balloon Puzzle 2D - Game Template
+  packageVersion: 1.0
+  assetPath: Assets/Balloon Puzzle 2D/Prefabs/Levels/level-5.prefab
+  uploadId: 748373
