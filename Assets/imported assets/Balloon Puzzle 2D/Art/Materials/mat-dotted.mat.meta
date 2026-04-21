@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ac49f7cd679af6143a11d28aafb5d0da
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316899
+  packageName: Balloon Puzzle 2D - Game Template
+  packageVersion: 1.0
+  assetPath: Assets/Balloon Puzzle 2D/Art/Materials/mat-dotted.mat
+  uploadId: 748373

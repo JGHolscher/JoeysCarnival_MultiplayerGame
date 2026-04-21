@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c2fab9e41ada7f34cbcd0433a814f0dd
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316899
+  packageName: Balloon Puzzle 2D - Game Template
+  packageVersion: 1.0
+  assetPath: Assets/Balloon Puzzle 2D/Prefabs/Objects/Blade.prefab
+  uploadId: 748373

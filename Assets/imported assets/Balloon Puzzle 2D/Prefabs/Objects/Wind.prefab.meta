@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2581e4fca2adbd74db40022f6de56bb9
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316899
+  packageName: Balloon Puzzle 2D - Game Template
+  packageVersion: 1.0
+  assetPath: Assets/Balloon Puzzle 2D/Prefabs/Objects/Wind.prefab
+  uploadId: 748373

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3a4645aa5fddffd4ab0217ae4d3bb0a6
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 316899
+  packageName: Balloon Puzzle 2D - Game Template
+  packageVersion: 1.0
+  assetPath: Assets/Balloon Puzzle 2D/Prefabs/Players/Cube.prefab
+  uploadId: 748373
